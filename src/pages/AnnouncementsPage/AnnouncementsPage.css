@@ -1,0 +1,35 @@
+.AnnouncementsPage {
+    width: 100%;
+    height: 100vh;
+
+    background-color: #B1C0CB;
+}
+
+.announcements-content {
+    width: 100%;
+    height: 70vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.announcements-body {
+    width: 600px;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.announcement_single_val {
+    color: white;
+    margin-top: 30px;
+}
+
+.announcements-breaker {
+    width: 2px;
+    background-color: white;
+    height: 500px;
+}

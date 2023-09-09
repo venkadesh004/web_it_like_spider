@@ -1,0 +1,41 @@
+.circles {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.circles svg {
+    position: absolute;
+    top: 5%;
+    left: 17%;
+}
+
+.lottie_images {
+    position: absolute;
+    top: 25%;
+    left: 28%;
+}
+
+.buttons {
+    position: absolute;
+    bottom: -100px;
+}
+
+.dates_info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 100%;
+
+    position: absolute;
+    bottom: 0px;
+}
+
+.dates_div {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

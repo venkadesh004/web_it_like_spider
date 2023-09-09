@@ -1,0 +1,12 @@
+.Headings {
+    width: 100%;
+}
+
+.Headings h1 {
+    font-size: 90px;
+    text-align: center;
+    letter-spacing: 20px;
+
+    font-weight: 900;
+    color: white;
+}

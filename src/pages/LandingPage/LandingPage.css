@@ -1,0 +1,78 @@
+.LandingPage {
+    background-color: #F76C6C;
+
+    width: 100%;
+    height: 100vh;
+
+    padding: 30px;
+}
+
+.main-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: 70px;
+}
+
+.main-body h2 {
+    color: #263366;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.main-topic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-body h1 {
+    color: white;
+    font-size: 130px;
+    font-weight: 900;
+}
+
+.main-body p {
+    color: white;
+    text-align: center;
+
+    width: 700px;
+}
+
+.mouse-scroll-animation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 50px;
+
+    height: 100px;
+}
+
+.topBar {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.topBar a {
+    width: 100px;
+    height: 50px;
+
+    border: 1px white solid;
+
+    color: white;
+    text-decoration: none;
+
+    border-radius: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+}

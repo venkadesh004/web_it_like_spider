@@ -1,0 +1,17 @@
+.OrganizersPage {
+    width: 100%;
+    height: 100vh;
+
+    background-color: #70D1AA;
+}
+
+.orgranizers-body {
+    width: 100%;
+    height: 70vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    flex-wrap: wrap;
+}
